@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>  
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.1">  
+  <CommandSet xml:lang="en-us">
+	  <CommandPrefix>Avatar</CommandPrefix>
+	  <Example>Speak to the game</Example>
+
+	  <Command Name="displayText">
+		  <Example>Say the message you want to appear in the game</Example>
+		  <ListenFor>{naturalLanguage}</ListenFor>
+		  <Feedback>Processing command...</Feedback>
+		  <Navigate/>
+	  </Command>
+
+	  <Command Name="playerActions">
+		  <Example>Player actions such as 'walk', 'run'</Example>
+		  <!-- ListenFor elements provide ways to say the command, including references to 
+            {PhraseLists} and {PhraseTopics} as well as [optional] words -->
+		  <ListenFor>{actionPhrases}</ListenFor>
+		  <!--Feedback provides the displayed and spoken text when your command is triggered -->
+		  <Feedback>Beginning new action...</Feedback>
+		  <!-- Navigate specifies the desired page or invocation destination for the Command-->
+		  <Navigate/>
+	  </Command>
+
+	  <PhraseTopic Label="naturalLanguage" Scenario="Natural Language"/>
+
+	  <PhraseTopic Label="actionPhrases" Scenario="Mecanim Actions">
+		  <Subject>stop</Subject>
+		  <Subject>walk</Subject>
+		  <Subject>jump</Subject>
+		  <Subject>run</Subject>
+	      <Subject>dance</Subject>
+	  </PhraseTopic>
+  
+  </CommandSet>  
+  
+</VoiceCommands>
+

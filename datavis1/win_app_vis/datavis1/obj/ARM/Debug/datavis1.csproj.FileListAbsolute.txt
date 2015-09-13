@@ -1,0 +1,11 @@
+C:\Users\neil\Documents\GitHub\inventorthon-unity-1\datavis1\win_app_vis\datavis1\obj\ARM\Debug\datavis1.csprojResolveAssemblyReference.cache
+C:\Users\neil\Documents\GitHub\inventorthon-unity-1\datavis1\win_app_vis\datavis1\obj\ARM\Debug\App.g.i.cs
+C:\Users\neil\Documents\GitHub\inventorthon-unity-1\datavis1\win_app_vis\datavis1\obj\ARM\Debug\App.g.cs
+C:\Users\neil\Documents\GitHub\inventorthon-unity-1\datavis1\win_app_vis\datavis1\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\neil\Documents\GitHub\inventorthon-unity-1\datavis1\win_app_vis\datavis1\obj\ARM\Debug\MainPage.g.cs
+C:\Users\neil\Documents\GitHub\inventorthon-unity-1\datavis1\win_app_vis\datavis1\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\neil\Documents\GitHub\inventorthon-unity-1\datavis1\win_app_vis\datavis1\obj\ARM\Debug\App.xaml
+C:\Users\neil\Documents\GitHub\inventorthon-unity-1\datavis1\win_app_vis\datavis1\obj\ARM\Debug\MainPage.xaml
+C:\Users\neil\Documents\GitHub\inventorthon-unity-1\datavis1\win_app_vis\datavis1\obj\ARM\Debug\App.xbf
+C:\Users\neil\Documents\GitHub\inventorthon-unity-1\datavis1\win_app_vis\datavis1\obj\ARM\Debug\MainPage.xbf
+C:\Users\neil\Documents\GitHub\inventorthon-unity-1\datavis1\win_app_vis\datavis1\obj\ARM\Debug\XamlSaveStateFile.xml

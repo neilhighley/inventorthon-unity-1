@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+ <?xml version="1.0" encoding="utf-8"?>
+        <VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.1">
+
+          <CommandSet xml:lang="en-gb">
+            <CommandPrefix>Unity Locate</CommandPrefix>
+            <Example>Speak to the game</Example>
+
+            <Command Name="startWithText">
+              <Example>Say the message you want to appear in the game</Example>
+              <ListenFor> {*} </ListenFor>
+              <Feedback> Starting Game... </Feedback>
+              <Navigate/>
+            </Command>
+
+          </CommandSet>
+
+        </VoiceCommands>
